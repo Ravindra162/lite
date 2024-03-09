@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: linear-gradient(to right, #290f2e, #3f0357,#4c1354 );
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+}
